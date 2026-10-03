@@ -38,7 +38,7 @@ Complete the relevant section(s) and remove those that do not apply.
 ### Best Use of Gemma 4
 
 - Gemma 4 model identifier and Gemini API integration:gemma-4-26b-a4b-it called via the official @google/genai SDK.
-- Code link showing the integration:[https://github.com/jyosthna-tech-in/guide-ease/blob/main/app/api/analyze/route.ts]
+- Code link showing the integration:[https://github.com/jyosthna-tech-in/NextStep-hackdayChallenge/blob/main/guide-ease/app/api/analyze/route.ts]
 - Input and useful output; multimodal value where applicable:Base64 image (noticeboard/form), text/voice query, and target language.
 
 Output: Structured JSON with a situation summary, required documents, 3-step action plan, and an interactive form checklist.
