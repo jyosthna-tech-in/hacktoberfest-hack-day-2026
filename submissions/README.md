@@ -1,5 +1,7 @@
 # Project submissions
 
+Read the [step-by-step submission guide (PDF)](../docs/submission-guide.pdf). Submit only your completed Markdown details file here and target the `main` branch in your PR.
+
 Add your completed [submission template](../SUBMISSION_TEMPLATE.md) here as:
 
 ```text

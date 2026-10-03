@@ -27,12 +27,14 @@ See the [MLH event challenges page](https://www.mlh.com/events/react-hyderabad-h
 
 ## Submit your project
 
+Read the [step-by-step submission guide (PDF)](docs/submission-guide.pdf) before submitting. Commit only your completed submission Markdown file here; your project code stays in your own public repository.
+
 1. Fork this repository.
 2. Build in your own public project repository.
 3. Create a branch in your fork, such as `submission/my-project`.
 4. Copy `SUBMISSION_TEMPLATE.md` to `submissions/project-name_team-or-attendee-name.md`.
 5. Complete the project details, challenge evidence, repository link, and demo instructions.
-6. Open a PR to this repository titled `Submission: Project Name - Team or Attendee Name`.
+6. Open a PR targeting this repository’s `main` branch, titled `Submission: Project Name - Team or Attendee Name`.
 
 Follow [CONTRIBUTING.md](CONTRIBUTING.md) for the full process. A PR records your project for community review; it does not replace any submission required on MLH's platform. Follow the organizers' submission and eligibility instructions. PR merging is handled by maintainers.
 

@@ -4,11 +4,13 @@ This repository holds event information and project submission Markdown. Maintai
 
 ## Project submissions
 
+The [submission guide (PDF)](docs/submission-guide.pdf) walks through the process. Submit only your completed Markdown details file; do not commit project source code here.
+
 1. Fork this repository and clone your fork.
 2. Create a branch: `git switch -c submission/my-project`.
 3. Copy [SUBMISSION_TEMPLATE.md](SUBMISSION_TEMPLATE.md) into `submissions/project-name_team-or-attendee-name.md`. Use lowercase names and hyphens within each name; keep the underscore between project and team/attendee.
 4. Complete the template with your selected challenge, public repository, demo instructions, and evidence. Remove irrelevant evidence sections.
-5. Commit and push your branch, then open a PR against this repository's default branch.
+5. Commit only your completed submission file, push your branch, then open a PR against this repository's `main` branch.
 6. Title the PR `Submission: Project Name - Team or Attendee Name`.
 
 For a team project, list all contributors in the submission. Update an existing submission by editing the same file. Clearly state incomplete work and credit existing material. Do not include credentials or private contact details.
