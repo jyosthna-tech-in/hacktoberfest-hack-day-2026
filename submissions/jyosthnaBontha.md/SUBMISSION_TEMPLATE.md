@@ -43,7 +43,7 @@ Complete the relevant section(s) and remove those that do not apply.
 
 Output: Structured JSON with a situation summary, required documents, 3-step action plan, and an interactive form checklist.
 
-Value: Uses vision intelligence to bridge the physical-to-digital gap, translating confusing visual environments into actionable, localized digital UI elements.
+Value: Uses vision intelligence to bridge the physical-to-digital gap, translating confusing visual environments into actionable, localized digital UI elements..
 
 
 ## Current status
